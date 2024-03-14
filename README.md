@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently final-year student at [**Nong Lam University Ho Chi Minh Campus**](https://www.hcmuaf.edu.vn/), my major is **Software Engineering** 
 
-- 🌱 I’m currently learning [**OCP: Java SE 17 Developer**](https://education.oracle.com/java-se-17-developer/pexam_1Z0-829), [**Docker**](https://www.docker.com/), and more.
+- 🌱 I’m currently learning [**Spring Boot**](https://spring.io/projects/spring-boot), [**Docker**](https://www.docker.com/), and more.
 
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/nguyenvanlenh?tab=repositories)
 
