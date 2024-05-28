@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently final-year student at [**Nong Lam University Ho Chi Minh Campus**](https://www.hcmuaf.edu.vn/), my major is **Software Engineering** 
 
-- 🌱 I’m currently learning [**Spring Boot**](https://spring.io/projects/spring-boot), [**Docker**](https://www.docker.com/), and more.
+- 🌱 I’m currently learning [**Spring Boot**](https://spring.io/projects/spring-boot).
 
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/nguyenvanlenh?tab=repositories)
 
@@ -30,19 +30,14 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 - ##### Databases
+![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
 
 - ##### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 - ##### IDEs & Environments
 ![Eclipse](https://img.shields.io/badge/eclipse-%23563D7C.svg?style=for-the-badge&logo=eclipse&logoColor=white) 
